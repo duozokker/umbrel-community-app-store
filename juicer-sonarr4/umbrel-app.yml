@@ -1,7 +1,7 @@
 manifestVersion: 1.1
 id: sonarr
 category: media
-name: Sonarr
+name: Sonarr4
 version: "4.0.4.1695"
 tagline: Smart PVR for newsgroup and bittorrent users
 description: >-
